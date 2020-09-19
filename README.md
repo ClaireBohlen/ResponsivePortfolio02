@@ -1,0 +1,1 @@
+In this project I will be using bootstrap to create a responsive portfolio with 3 total pages. I will add a contact page and a portfolio page. 
