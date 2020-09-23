@@ -1,0 +1,19 @@
+body{
+    background-color: palevioletred;
+} 
+header{
+    background-color: palevioletred;
+}
+
+.jumbotron{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background-color: palevioletred;
+
+}
+.card{
+    align-content: center;
+
+}
